@@ -59,3 +59,5 @@ gem 'devise'
 gem 'cancan'
 
 gem 'paperclip'
+
+gem 'dotenv-rails', group: :development
